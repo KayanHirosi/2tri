@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+img {
+    width: 60%;
+    text-align: center;
+    border-color: blueviolet;
+    border-style: double;
+    border-width: 5px;
+}
+
+.pt1 {
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+.pt2 {
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    
+}
+
+ 
+
